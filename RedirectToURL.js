@@ -1,4 +1,4 @@
-JS for redirect to another component page, with current page Id. 
+// JS for redirect to another component page, with current page Id. : 
 
 ({
 	goToEditJobPosting : function(component, event, helper) {
@@ -11,4 +11,4 @@ JS for redirect to another component page, with current page Id.
 		});
 		urlEvent.fire();
 	},
-}) 
+})
